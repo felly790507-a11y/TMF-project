@@ -1,0 +1,8 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.vscode/
+data/
+backtest_trades/

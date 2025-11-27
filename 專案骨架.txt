@@ -1,0 +1,15 @@
+TMF-project/
+├─ README.md
+├─ config/config.json
+├─ data/
+│  ├─ raw_ticks/
+│  └─ kbars_3tick/
+├─ src/
+│  ├─ app.py
+│  ├─ config_loader.py
+│  ├─ shioaji_client.py
+│  ├─ quote_manager.py
+│  ├─ strategy.py
+│  ├─ backtest.py
+│  └─ utils.py
+└─ logs/
